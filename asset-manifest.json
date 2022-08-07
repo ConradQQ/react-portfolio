@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/conradQQ.github.io/react-portfolio/static/css/main.902a6f54.css",
+    "main.js": "/conradQQ.github.io/react-portfolio/static/js/main.3da82187.js",
+    "static/js/787.a2cb61a6.chunk.js": "/conradQQ.github.io/react-portfolio/static/js/787.a2cb61a6.chunk.js",
+    "static/media/headshot.png": "/conradQQ.github.io/react-portfolio/static/media/headshot.c670bf50beaf7004ec67.png",
+    "static/media/bootstrap-icons.woff?": "/conradQQ.github.io/react-portfolio/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/conradQQ.github.io/react-portfolio/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "static/media/fcc-js-cert.png": "/conradQQ.github.io/react-portfolio/static/media/fcc-js-cert.618904a5fdd6f1774635.png",
+    "static/media/fcc-web-design-cert.png": "/conradQQ.github.io/react-portfolio/static/media/fcc-web-design-cert.8ba03a8fe0d10eb7c7ae.png",
+    "static/media/ca-css-cert.png": "/conradQQ.github.io/react-portfolio/static/media/ca-css-cert.9901193d7e33b70e40fb.png",
+    "static/media/helvetica-neu.ttf": "/conradQQ.github.io/react-portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/conradQQ.github.io/react-portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/conradQQ.github.io/react-portfolio/static/media/logo-s.552d5224a72fc6e332cb.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/conradQQ.github.io/react-portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/conradQQ.github.io/react-portfolio/index.html",
+    "main.902a6f54.css.map": "/conradQQ.github.io/react-portfolio/static/css/main.902a6f54.css.map",
+    "main.3da82187.js.map": "/conradQQ.github.io/react-portfolio/static/js/main.3da82187.js.map",
+    "787.a2cb61a6.chunk.js.map": "/conradQQ.github.io/react-portfolio/static/js/787.a2cb61a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.902a6f54.css",
+    "static/js/main.3da82187.js"
+  ]
+}
