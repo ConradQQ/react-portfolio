@@ -1,13 +1,13 @@
 {
  "portfolio": [
   {
-   "cover": "/portfolio/1/one.png",
+   "cover": "public/portfolio/1/one.png",
    "title": "React Task Tracker",
    "description": "React, JSX, JSON, Bootstrap5",
    "url": "https://google.com"
   },
   {
-   "cover": "/portfolio/2/two.png",
+   "cover": "public/portfolio/1/one.png",
    "title": "React Random Quote Generator",
    "description": "React, JSX, JSON, Bootstrap5",
    "url": "https://google.com"
